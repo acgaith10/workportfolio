@@ -3,4 +3,5 @@
 -- Wine Statistics is an example of analytical work done with a data set for wine producer.
 -- Mortgage Backed Securities is an excel file with an example of my process for delivering insights via descriptive and inferential statistics.
 -- Investment Strategy is my presentation for the Mortgage Backed Securities workbook.
+-- Lariat Model and Slides are respective documents for a dashboard stakeholders can use to guage diffeering strategies to improve profitability of a fictitious car rental corporation.
 # workportfolio
